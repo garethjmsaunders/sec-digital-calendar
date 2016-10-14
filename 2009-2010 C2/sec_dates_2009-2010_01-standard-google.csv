@@ -1,0 +1,365 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Reminder on/off,Reminder Date,Reminder Time,Meeting Organizer,Required Attendees,Optional Attendees,Meeting Resources,Billing Information,Categories,Description,Location,Mileage,Priority,Private,Sensitivity,Show time as
+First Sunday of Advent [1] Violet,29/11/2009,00:00:00,30/11/2009,00:00:00,TRUE,FALSE,28/11/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Andrew, Apostle, Patron of Scotland [4] Red",30/11/2009,00:00:00,01/12/2009,00:00:00,TRUE,FALSE,29/11/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Charles de Foucauld, Priest and Hermit, 1916 [6] White",01/12/2009,00:00:00,02/12/2009,00:00:00,TRUE,FALSE,30/11/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Nicholas Ferrar, Deacon, 1637 [6] White",02/12/2009,00:00:00,03/12/2009,00:00:00,TRUE,FALSE,01/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Francis Xavier, Priest and Missionary, 1552 [6] White",03/12/2009,00:00:00,04/12/2009,00:00:00,TRUE,FALSE,02/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Clement of Alexandria, Teacher of the Faith, c.210 [6] White",04/12/2009,00:00:00,05/12/2009,00:00:00,TRUE,FALSE,03/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after First Sunday of Advent,05/12/2009,00:00:00,06/12/2009,00:00:00,TRUE,FALSE,04/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Second Sunday of Advent [1] Violet,06/12/2009,00:00:00,07/12/2009,00:00:00,TRUE,FALSE,05/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ambrose of Milan, Bishop and Teacher of the Faith, c.210 [6] White",07/12/2009,00:00:00,08/12/2009,00:00:00,TRUE,FALSE,06/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Conception of Mary, Mother of the Lord [5] White",08/12/2009,00:00:00,09/12/2009,00:00:00,TRUE,FALSE,07/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Nicholas of Myra, Bishop, 4th century [6] White (translated from 7 December)",09/12/2009,00:00:00,10/12/2009,00:00:00,TRUE,FALSE,08/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Second Sunday of Advent,10/12/2009,00:00:00,11/12/2009,00:00:00,TRUE,FALSE,09/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Second Sunday of Advent,11/12/2009,00:00:00,12/12/2009,00:00:00,TRUE,FALSE,10/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Saturday after Second Sunday of Advent (Ordination of the Bishop of Glasgow, 1998) ",12/12/2009,00:00:00,13/12/2009,00:00:00,TRUE,FALSE,11/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Third Sunday of Advent [1] Violet,13/12/2009,00:00:00,14/12/2009,00:00:00,TRUE,FALSE,12/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John of the Cross, Priest, Teacher of the Faith, 1591 [6] White",14/12/2009,00:00:00,15/12/2009,00:00:00,TRUE,FALSE,13/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Third Sunday of Advent,15/12/2009,00:00:00,16/12/2009,00:00:00,TRUE,FALSE,14/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Third Sunday of Advent,16/12/2009,00:00:00,17/12/2009,00:00:00,TRUE,FALSE,15/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Third Sunday of Advent,17/12/2009,00:00:00,18/12/2009,00:00:00,TRUE,FALSE,16/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Third Sunday of Advent,18/12/2009,00:00:00,19/12/2009,00:00:00,TRUE,FALSE,17/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Third Sunday of Advent,19/12/2009,00:00:00,20/12/2009,00:00:00,TRUE,FALSE,18/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fourth Sunday of Advent [1] Violet,20/12/2009,00:00:00,21/12/2009,00:00:00,TRUE,FALSE,19/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas, Apostle [4] Red (if not kept on 3 July)",21/12/2009,00:00:00,22/12/2009,00:00:00,TRUE,FALSE,20/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Fourth Sunday of Advent,22/12/2009,00:00:00,23/12/2009,00:00:00,TRUE,FALSE,21/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Fourth Sunday of Advent,23/12/2009,00:00:00,24/12/2009,00:00:00,TRUE,FALSE,22/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+Christmas Eve [2],24/12/2009,00:00:00,25/12/2009,00:00:00,TRUE,FALSE,23/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+CHRISTMAS DAY [1] White,25/12/2009,00:00:00,26/12/2009,00:00:00,TRUE,FALSE,24/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Stephen, Deacon and Martyr [4] Red",26/12/2009,00:00:00,27/12/2009,00:00:00,TRUE,FALSE,25/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+First Sunday after Christmas [2] White,27/12/2009,00:00:00,28/12/2009,00:00:00,TRUE,FALSE,26/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Holy Innocents [4] White,28/12/2009,00:00:00,29/12/2009,00:00:00,TRUE,FALSE,27/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John, Apostle and Evangelist [4] White (translated from 27 December)",29/12/2009,00:00:00,30/12/2009,00:00:00,TRUE,FALSE,28/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Josephine Butler, 1905 [6] White",30/12/2009,00:00:00,31/12/2009,00:00:00,TRUE,FALSE,29/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John Wycliffe, Priest, 1384 [6] White",31/12/2009,00:00:00,01/01/2010,00:00:00,TRUE,FALSE,30/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE NAMING OF JESUS [2] White,01/01/2010,00:00:00,02/01/2010,00:00:00,TRUE,FALSE,31/12/2009,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Seraphim of Sarov, 1833 [6] White",02/01/2010,00:00:00,03/01/2010,00:00:00,TRUE,FALSE,01/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Second Sunday after Christmas [3] White,03/01/2010,00:00:00,04/01/2010,00:00:00,TRUE,FALSE,02/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Second Sunday after Christmas,04/01/2010,00:00:00,05/01/2010,00:00:00,TRUE,FALSE,03/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Second Sunday after Christmas,05/01/2010,00:00:00,06/01/2010,00:00:00,TRUE,FALSE,04/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE EPIPHANY [1] White,06/01/2010,00:00:00,07/01/2010,00:00:00,TRUE,FALSE,05/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Second Sunday after Christmas,07/01/2010,00:00:00,08/01/2010,00:00:00,TRUE,FALSE,06/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Second Sunday after Christmas,08/01/2010,00:00:00,09/01/2010,00:00:00,TRUE,FALSE,07/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Second Sunday after Christmas,09/01/2010,00:00:00,10/01/2010,00:00:00,TRUE,FALSE,08/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+First Sunday after Epiphany: The Baptism of the Lord [2] White,10/01/2010,00:00:00,11/01/2010,00:00:00,TRUE,FALSE,09/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"David, King of Scots, 1153 [6] Red",11/01/2010,00:00:00,12/01/2010,00:00:00,TRUE,FALSE,10/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"William Laud, Bishop, 1645 [6] Red (translated from 10 January)",12/01/2010,00:00:00,13/01/2010,00:00:00,TRUE,FALSE,11/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Kentigern (or Mungo), Bishop c.603 [4] White",13/01/2010,00:00:00,14/01/2010,00:00:00,TRUE,FALSE,12/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Hilary of Poitiers, Bishop and Teacher of the Faith, c.367 [6] White",14/01/2010,00:00:00,15/01/2010,00:00:00,TRUE,FALSE,13/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after First Sunday after Epiphany,15/01/2010,00:00:00,16/01/2010,00:00:00,TRUE,FALSE,14/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after First Sunday after Epiphany,16/01/2010,00:00:00,17/01/2010,00:00:00,TRUE,FALSE,15/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Second Sunday after Epiphany [3] Green,17/01/2010,00:00:00,18/01/2010,00:00:00,TRUE,FALSE,16/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Confession of Peter [6] White,18/01/2010,00:00:00,19/01/2010,00:00:00,TRUE,FALSE,17/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Antony of Egypt, Abbot, 356 [6] White (translated from 17 January)",19/01/2010,00:00:00,20/01/2010,00:00:00,TRUE,FALSE,18/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Second Sunday after Epiphany,20/01/2010,00:00:00,21/01/2010,00:00:00,TRUE,FALSE,19/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Agnes, Martyr, c.304 [6] Red",21/01/2010,00:00:00,22/01/2010,00:00:00,TRUE,FALSE,20/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Second Sunday after Epiphany,22/01/2010,00:00:00,23/01/2010,00:00:00,TRUE,FALSE,21/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Second Sunday after Epiphany,23/01/2010,00:00:00,24/01/2010,00:00:00,TRUE,FALSE,22/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Third Sunday after Epiphany [3] Green,24/01/2010,00:00:00,25/01/2010,00:00:00,TRUE,FALSE,23/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"The Conversion of Paul, Apostle [4] White",25/01/2010,00:00:00,26/01/2010,00:00:00,TRUE,FALSE,24/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Timothy and Titus, Bishops [6] White",26/01/2010,00:00:00,27/01/2010,00:00:00,TRUE,FALSE,25/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John Chrysostom, Bishop and Teacher of the Faith, 407 [6] White",27/01/2010,00:00:00,28/01/2010,00:00:00,TRUE,FALSE,26/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas Aquinas, Teacher of the Faith, 1274 [6] White",28/01/2010,00:00:00,29/01/2010,00:00:00,TRUE,FALSE,27/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Francis de Sales, Bishop, 1622 [6] White (translated from 24 January)",29/01/2010,00:00:00,30/01/2010,00:00:00,TRUE,FALSE,28/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Charles I, King, 1649 [6] Red",30/01/2010,00:00:00,31/01/2010,00:00:00,TRUE,FALSE,29/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fourth Sunday after Epiphany [3] Green (Third Sunday before Lent) (SPB Septuagesima - Violet),31/01/2010,00:00:00,01/02/2010,00:00:00,TRUE,FALSE,30/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Bride of Kildare, Abbess, c.525 [6] White",01/02/2010,00:00:00,02/02/2010,00:00:00,TRUE,FALSE,31/01/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE PRESENTATION OF THE LORD [2] White,02/02/2010,00:00:00,03/02/2010,00:00:00,TRUE,FALSE,01/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saints and Martyrs of Europe [6] Red,03/02/2010,00:00:00,04/02/2010,00:00:00,TRUE,FALSE,02/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Charles Mackenzie of Central Africa, Bishop, Missionary, Martyr, 1862 [6] Red (translated from 31 January)",04/02/2010,00:00:00,05/02/2010,00:00:00,TRUE,FALSE,03/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Fourth Sunday after Epiphany,05/02/2010,00:00:00,06/02/2010,00:00:00,TRUE,FALSE,04/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Paul Miki, Priest, and the Martyrs of Japan, 1597 [6] Red",06/02/2010,00:00:00,07/02/2010,00:00:00,TRUE,FALSE,05/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fifth Sunday after Epiphany [3] Green (Second Sunday before Lent) (SPB Sexagesima - Violet),07/02/2010,00:00:00,08/02/2010,00:00:00,TRUE,FALSE,06/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Fifth Sunday after Epiphany,08/02/2010,00:00:00,09/02/2010,00:00:00,TRUE,FALSE,07/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Fifth Sunday after Epiphany,09/02/2010,00:00:00,10/02/2010,00:00:00,TRUE,FALSE,08/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Scholastica, Religious, 543 [6] White",10/02/2010,00:00:00,11/02/2010,00:00:00,TRUE,FALSE,09/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Fifth Sunday after Epiphany,11/02/2010,00:00:00,12/02/2010,00:00:00,TRUE,FALSE,10/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Fifth Sunday after Epiphany,12/02/2010,00:00:00,13/02/2010,00:00:00,TRUE,FALSE,11/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Fifth Sunday after Epiphany,13/02/2010,00:00:00,14/02/2010,00:00:00,TRUE,FALSE,12/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Sunday before Lent (Transfiguration) [3] Green (SPB Quinquagesima - Violet),14/02/2010,00:00:00,15/02/2010,00:00:00,TRUE,FALSE,13/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas Bray, Priest and Missionary, 1730 [6] White",15/02/2010,00:00:00,16/02/2010,00:00:00,TRUE,FALSE,14/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Cyril, Monk, 869, and Methodius, Bishop, 885, 'Apostles of the Slavs' [6] White (translated from 14 February)",16/02/2010,00:00:00,17/02/2010,00:00:00,TRUE,FALSE,15/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Ash Wednesday [1] Violet or Lenten Array,17/02/2010,00:00:00,18/02/2010,00:00:00,TRUE,FALSE,16/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Colman of Lindisfarne, Bishop, 767 [6] White",18/02/2010,00:00:00,19/02/2010,00:00:00,TRUE,FALSE,17/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Martin Luther, 1545 [6] White",19/02/2010,00:00:00,20/02/2010,00:00:00,TRUE,FALSE,18/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Finan of Lindisfarne, Bishop, 661 [6] White (translated from 17 February)",20/02/2010,00:00:00,21/02/2010,00:00:00,TRUE,FALSE,19/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+First Sunday of Lent [1] Violet or Lenten Array,21/02/2010,00:00:00,22/02/2010,00:00:00,TRUE,FALSE,20/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after First Sunday of Lent,22/02/2010,00:00:00,23/02/2010,00:00:00,TRUE,FALSE,21/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Polycarp of Smyrna, Bishop and Martyr, 156 [6] Red",23/02/2010,00:00:00,24/02/2010,00:00:00,TRUE,FALSE,22/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after First Sunday of Lent,24/02/2010,00:00:00,25/02/2010,00:00:00,TRUE,FALSE,23/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after First Sunday of Lent,25/02/2010,00:00:00,26/02/2010,00:00:00,TRUE,FALSE,24/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after First Sunday of Lent,26/02/2010,00:00:00,27/02/2010,00:00:00,TRUE,FALSE,25/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after First Sunday of Lent,27/02/2010,00:00:00,28/02/2010,00:00:00,TRUE,FALSE,26/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Second Sunday of Lent [1] Violet or Lenten Array,28/02/2010,00:00:00,01/03/2010,00:00:00,TRUE,FALSE,27/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"David, Bishop, Patron of Wales, c.544 [6] White",01/03/2010,00:00:00,02/03/2010,00:00:00,TRUE,FALSE,28/02/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Chad of Lichfield, Bishop, 672 [6] White",02/03/2010,00:00:00,03/03/2010,00:00:00,TRUE,FALSE,01/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John and Charles Wesley, Priests, 1791 and 1788 [6] White",03/03/2010,00:00:00,04/03/2010,00:00:00,TRUE,FALSE,02/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Adrian of May Island, Abbot, and Companions, Martyrs, 875 [6] Red",04/03/2010,00:00:00,05/03/2010,00:00:00,TRUE,FALSE,03/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Second Sunday of Lent,05/03/2010,00:00:00,06/03/2010,00:00:00,TRUE,FALSE,04/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Baldred, Bishop, 608 [6] White",06/03/2010,00:00:00,07/03/2010,00:00:00,TRUE,FALSE,05/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Third Sunday of Lent [1] Violet or Lenten Array,07/03/2010,00:00:00,08/03/2010,00:00:00,TRUE,FALSE,06/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Duthac, Bishop, 1068 [6] White",08/03/2010,00:00:00,09/03/2010,00:00:00,TRUE,FALSE,07/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Perpetua and her Companions, Martyrs, 203 [6] Red (translated from 8 March)",09/03/2010,00:00:00,10/03/2010,00:00:00,TRUE,FALSE,08/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Kessog, Bishop, c.700 [6] Red",10/03/2010,00:00:00,11/03/2010,00:00:00,TRUE,FALSE,09/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thursday after Third Sunday of Lent (Ordination of the Bishop of St Andrews, 2005)",11/03/2010,00:00:00,12/03/2010,00:00:00,TRUE,FALSE,10/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Third Sunday of Lent,12/03/2010,00:00:00,13/03/2010,00:00:00,TRUE,FALSE,11/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Third Sunday of Lent,13/03/2010,00:00:00,14/03/2010,00:00:00,TRUE,FALSE,12/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fourth Sunday of Lent [1] Violet or Lenten Array,14/03/2010,00:00:00,15/03/2010,00:00:00,TRUE,FALSE,13/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Fourth Sunday of Lent,15/03/2010,00:00:00,16/03/2010,00:00:00,TRUE,FALSE,14/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Boniface of Ross, Bishop, 8th century [6] White",16/03/2010,00:00:00,17/03/2010,00:00:00,TRUE,FALSE,15/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Patrick, Bishop, Patron of Ireland, 461 [4] White",17/03/2010,00:00:00,18/03/2010,00:00:00,TRUE,FALSE,16/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Cyril of Jerusalem, Bishop and Teacher of the Faith, 386 [6] White",18/03/2010,00:00:00,19/03/2010,00:00:00,TRUE,FALSE,17/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Joseph of Nazareth [4] White,19/03/2010,00:00:00,20/03/2010,00:00:00,TRUE,FALSE,18/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Cuthbert, Bishop, 687 [6] White",20/03/2010,00:00:00,21/03/2010,00:00:00,TRUE,FALSE,19/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fifth Sunday of Lent [1] Violet or Lenten Array,21/03/2010,00:00:00,22/03/2010,00:00:00,TRUE,FALSE,20/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas Ken, Bishop, 1711 [6] White",22/03/2010,00:00:00,23/03/2010,00:00:00,TRUE,FALSE,21/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas Cranmer, Bishop, 1556 [6] Red (translated from 21 March)",23/03/2010,00:00:00,24/03/2010,00:00:00,TRUE,FALSE,22/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Paul Couturier, Priest, 1953 [6] White",24/03/2010,00:00:00,25/03/2010,00:00:00,TRUE,FALSE,23/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE ANNUNCIATION OF THE LORD [2] White,25/03/2010,00:00:00,26/03/2010,00:00:00,TRUE,FALSE,24/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Fifth Sunday of Lent,26/03/2010,00:00:00,27/03/2010,00:00:00,TRUE,FALSE,25/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Fifth Sunday of Lent,27/03/2010,00:00:00,28/03/2010,00:00:00,TRUE,FALSE,26/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Sunday of the Passion (Palm Sunday) [1] Red or Violet,28/03/2010,00:00:00,29/03/2010,00:00:00,TRUE,FALSE,27/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday of Holy Week [1] Red or Violet,29/03/2010,00:00:00,30/03/2010,00:00:00,TRUE,FALSE,28/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday of Holy Week [1] Red or Violet,30/03/2010,00:00:00,31/03/2010,00:00:00,TRUE,FALSE,29/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday of Holy Week [1] Red or Violet,31/03/2010,00:00:00,01/04/2010,00:00:00,TRUE,FALSE,30/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Maundy Thursday [1] White at the Eucharist,01/04/2010,00:00:00,02/04/2010,00:00:00,TRUE,FALSE,31/03/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Good Friday [1] Red for the Liturgy; Hangings removed,02/04/2010,00:00:00,03/04/2010,00:00:00,TRUE,FALSE,01/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Holy Saturday (Easter Eve) [1] Hangings removed; White at the Easter Vigil,03/04/2010,00:00:00,04/04/2010,00:00:00,TRUE,FALSE,02/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+EASTER DAY [1] White,04/04/2010,00:00:00,05/04/2010,00:00:00,TRUE,FALSE,03/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday of Easter week,05/04/2010,00:00:00,06/04/2010,00:00:00,TRUE,FALSE,04/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday of Easter week,06/04/2010,00:00:00,07/04/2010,00:00:00,TRUE,FALSE,05/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday of Easter week,07/04/2010,00:00:00,08/04/2010,00:00:00,TRUE,FALSE,06/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday of Easter week,08/04/2010,00:00:00,09/04/2010,00:00:00,TRUE,FALSE,07/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Friday of Easter week (Dietrich Bonhoeffer, Theologian and Martyr, 1945 [6] Red)",09/04/2010,00:00:00,10/04/2010,00:00:00,TRUE,FALSE,08/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Saturday of Easter week (William Law, Priest, 1761 [6] White)",10/04/2010,00:00:00,11/04/2010,00:00:00,TRUE,FALSE,09/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Second Sunday of Easter [1] White; SPB First Sunday after Easter,11/04/2010,00:00:00,12/04/2010,00:00:00,TRUE,FALSE,10/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"William Forbes, Bishop, 1634 [6] White",12/04/2010,00:00:00,13/04/2010,00:00:00,TRUE,FALSE,11/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"George Augustus Selwyn, Bishop and Missionary, 1878 [6] White (translated from 11 April)",13/04/2010,00:00:00,14/04/2010,00:00:00,TRUE,FALSE,12/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Second Sunday of Easter,14/04/2010,00:00:00,15/04/2010,00:00:00,TRUE,FALSE,13/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Second Sunday of Easter,15/04/2010,00:00:00,16/04/2010,00:00:00,TRUE,FALSE,14/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Magnus of Orkney, Martyr, c.1116 [6] Red",16/04/2010,00:00:00,17/04/2010,00:00:00,TRUE,FALSE,15/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Donnan, Abbot and Companions, Martyrs, c.617 [6] Red",17/04/2010,00:00:00,18/04/2010,00:00:00,TRUE,FALSE,16/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Third Sunday of Easter [1] White; SPB Second Sunday after Easter,18/04/2010,00:00:00,19/04/2010,00:00:00,TRUE,FALSE,17/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Third Sunday of Easter,19/04/2010,00:00:00,20/04/2010,00:00:00,TRUE,FALSE,18/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Maelrubha of Applecross, Abbot, 722 [6] White",20/04/2010,00:00:00,21/04/2010,00:00:00,TRUE,FALSE,19/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Anselm of Canterbury, Bishop and Teacher of the Faith, 1109 [6] White",21/04/2010,00:00:00,22/04/2010,00:00:00,TRUE,FALSE,20/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Third Sunday of Easter,22/04/2010,00:00:00,23/04/2010,00:00:00,TRUE,FALSE,21/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"George, Patron of England, Martyr, c.303 [6] Red",23/04/2010,00:00:00,24/04/2010,00:00:00,TRUE,FALSE,22/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Third Sunday of Easter,24/04/2010,00:00:00,25/04/2010,00:00:00,TRUE,FALSE,23/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fourth Sunday of Easter [1] White; SPB Third Sunday after Easter,25/04/2010,00:00:00,26/04/2010,00:00:00,TRUE,FALSE,24/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Mark, Evangelist [4] Red",26/04/2010,00:00:00,27/04/2010,00:00:00,TRUE,FALSE,25/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Albert Ernest Laurie, Priest, 1937 [6] White (translated from 26 April)",27/04/2010,00:00:00,28/04/2010,00:00:00,TRUE,FALSE,26/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Fourth Sunday of Easter,28/04/2010,00:00:00,29/04/2010,00:00:00,TRUE,FALSE,27/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Catherine of Siena, Mystic and Teacher of the Faith, 1380 [6] White",29/04/2010,00:00:00,30/04/2010,00:00:00,TRUE,FALSE,28/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Fourth Sunday of Easter,30/04/2010,00:00:00,01/05/2010,00:00:00,TRUE,FALSE,29/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Philip and James, Apostles [4] Red",01/05/2010,00:00:00,02/05/2010,00:00:00,TRUE,FALSE,30/04/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Fifth Sunday of Easter [1] White; SPB Fourth Sunday after Easter,02/05/2010,00:00:00,03/05/2010,00:00:00,TRUE,FALSE,01/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Athenasius, Bishop and Teacher of the Faith, 373 [6] White (translated from 2 May)",03/05/2010,00:00:00,04/05/2010,00:00:00,TRUE,FALSE,02/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Fifth Sunday of Easter,04/05/2010,00:00:00,05/05/2010,00:00:00,TRUE,FALSE,03/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Fifth Sunday of Easter,05/05/2010,00:00:00,06/05/2010,00:00:00,TRUE,FALSE,04/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Fifth Sunday of Easter,06/05/2010,00:00:00,07/05/2010,00:00:00,TRUE,FALSE,05/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Fifth Sunday of Easter,07/05/2010,00:00:00,08/05/2010,00:00:00,TRUE,FALSE,06/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Julian of Norwich, c.1413 [6] White",08/05/2010,00:00:00,09/05/2010,00:00:00,TRUE,FALSE,07/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Sixth Sunday of Easter [1] White; SPB Fifth Sunday after Easter,09/05/2010,00:00:00,10/05/2010,00:00:00,TRUE,FALSE,08/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Sixth Sunday of Easter,10/05/2010,00:00:00,11/05/2010,00:00:00,TRUE,FALSE,09/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Sixth Sunday of Easter,11/05/2010,00:00:00,12/05/2010,00:00:00,TRUE,FALSE,10/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas Rattray, Bishop, 1743 [6] White",12/05/2010,00:00:00,13/05/2010,00:00:00,TRUE,FALSE,11/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+ASCENSION DAY [1] White,13/05/2010,00:00:00,14/05/2010,00:00:00,TRUE,FALSE,12/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Matthias, Apostle [4] Red",14/05/2010,00:00:00,15/05/2010,00:00:00,TRUE,FALSE,13/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Sixth Sunday of Easter,15/05/2010,00:00:00,16/05/2010,00:00:00,TRUE,FALSE,14/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Seventh Sunday of Easter [1] White; SPB Sunday after Ascension Day,16/05/2010,00:00:00,17/05/2010,00:00:00,TRUE,FALSE,15/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Seventh Sunday of Easter,17/05/2010,00:00:00,18/05/2010,00:00:00,TRUE,FALSE,16/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Seventh Sunday of Easter,18/05/2010,00:00:00,19/05/2010,00:00:00,TRUE,FALSE,17/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Seventh Sunday of Easter,19/05/2010,00:00:00,20/05/2010,00:00:00,TRUE,FALSE,18/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Seventh Sunday of Easter,20/05/2010,00:00:00,21/05/2010,00:00:00,TRUE,FALSE,19/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Helena, c.330 [6] White",21/05/2010,00:00:00,22/05/2010,00:00:00,TRUE,FALSE,20/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Seventh Sunday of Easter,22/05/2010,00:00:00,23/05/2010,00:00:00,TRUE,FALSE,21/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE DAY OF PENTECOST (Whitsunday) [1] Red,23/05/2010,00:00:00,24/05/2010,00:00:00,TRUE,FALSE,22/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"William of Perth (or Rochester), 1201 [6] White (translated from 23 May)",24/05/2010,00:00:00,25/05/2010,00:00:00,TRUE,FALSE,23/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Bede the Venerable, of Jarrow, Teacher of the Faith, 735 [6] White",25/05/2010,00:00:00,26/05/2010,00:00:00,TRUE,FALSE,24/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Augustine of Canterbury, Bishop, c.604 [6] White",26/05/2010,00:00:00,27/05/2010,00:00:00,TRUE,FALSE,25/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after the Day of Pentecost (Whitsunday),27/05/2010,00:00:00,28/05/2010,00:00:00,TRUE,FALSE,26/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after the Day of Pentecost (Whitsunday),28/05/2010,00:00:00,29/05/2010,00:00:00,TRUE,FALSE,27/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after the Day of Pentecost (Whitsunday) / Eve of Trinity Sunday,29/05/2010,00:00:00,30/05/2010,00:00:00,TRUE,FALSE,28/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Trinity Sunday [2] White; Pentecost 1,30/05/2010,00:00:00,31/05/2010,00:00:00,TRUE,FALSE,29/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Visit of Mary to Elizabeth [5] White,31/05/2010,00:00:00,01/06/2010,00:00:00,TRUE,FALSE,30/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Justin of Rome, Martyr, c.165 [6] Red",01/06/2010,00:00:00,02/06/2010,00:00:00,TRUE,FALSE,31/05/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Trinity Sunday,02/06/2010,00:00:00,03/06/2010,00:00:00,TRUE,FALSE,01/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Corpus Christi (Thanksgiving for Holy Communion) [5] White,03/06/2010,00:00:00,04/06/2010,00:00:00,TRUE,FALSE,02/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John XXIII, Bishop of Rome, Reformer, 1963 [6] White",04/06/2010,00:00:00,05/06/2010,00:00:00,TRUE,FALSE,03/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Boniface of Mainz, Bishop, Missionary and Martyr, 754 [6] Red",05/06/2010,00:00:00,06/06/2010,00:00:00,TRUE,FALSE,04/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 2 [3] Green; SPB Trinity 1,06/06/2010,00:00:00,07/06/2010,00:00:00,TRUE,FALSE,05/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Charles Lwanga and his companions, 1886; Janani Luwum, Bishop, 1977, Martyrs of Uganda [6] Red (translated from 3 June)",07/06/2010,00:00:00,08/06/2010,00:00:00,TRUE,FALSE,06/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ephrem the Syrian, Deacon and Teacher of the Faith, 373 [6] White (Ordination of the Bishop of Argyll, 2004)",08/06/2010,00:00:00,09/06/2010,00:00:00,TRUE,FALSE,07/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Columba of Iona, Abbot, 597 [4] White",09/06/2010,00:00:00,10/06/2010,00:00:00,TRUE,FALSE,08/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 2,10/06/2010,00:00:00,11/06/2010,00:00:00,TRUE,FALSE,09/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Barnabus, Apostle [4] Red",11/06/2010,00:00:00,12/06/2010,00:00:00,TRUE,FALSE,10/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John Skinner, Priest, 1807, and John Skinner, Bishop, 1816 [6] White",12/06/2010,00:00:00,13/06/2010,00:00:00,TRUE,FALSE,11/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 3 [3] Green; SPB Trinity 2,13/06/2010,00:00:00,14/06/2010,00:00:00,TRUE,FALSE,12/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Basil of Caesarea, 379; Gregory of Nazianzus, c.390; Gregory of Nyssa, 394, Bishops and Teachers of the Faith [6] White",14/06/2010,00:00:00,15/06/2010,00:00:00,TRUE,FALSE,13/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 3,15/06/2010,00:00:00,16/06/2010,00:00:00,TRUE,FALSE,14/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 3,16/06/2010,00:00:00,17/06/2010,00:00:00,TRUE,FALSE,15/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 3,17/06/2010,00:00:00,18/06/2010,00:00:00,TRUE,FALSE,16/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Bernard Mizeki, Martyr, 1896 [6] Red",18/06/2010,00:00:00,19/06/2010,00:00:00,TRUE,FALSE,17/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 3,19/06/2010,00:00:00,20/06/2010,00:00:00,TRUE,FALSE,18/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 4 [3] Green; SPB Trinity 3,20/06/2010,00:00:00,21/06/2010,00:00:00,TRUE,FALSE,19/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Fillan, Abbot, c.750 [6] Red (translated from 20 June)",21/06/2010,00:00:00,22/06/2010,00:00:00,TRUE,FALSE,20/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Alban, Martyr [6] Red",22/06/2010,00:00:00,23/06/2010,00:00:00,TRUE,FALSE,21/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Wednesday after Pentecost 4 (Installation of the Bishop of Edinburgh, 2001)",23/06/2010,00:00:00,24/06/2010,00:00:00,TRUE,FALSE,22/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Birth of John the Baptist [4] White,24/06/2010,00:00:00,25/06/2010,00:00:00,TRUE,FALSE,23/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Moluag of Lismore, Bishop, c.592 [6] White",25/06/2010,00:00:00,26/06/2010,00:00:00,TRUE,FALSE,24/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Robert Leighton, Bishop, 1684 [6] White",26/06/2010,00:00:00,27/06/2010,00:00:00,TRUE,FALSE,25/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 5 [3] Green; SPB Trinity 4,27/06/2010,00:00:00,28/06/2010,00:00:00,TRUE,FALSE,26/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Irenaeus of Lyons, Bishop and Teacher of the Faith, 202 [6] White",28/06/2010,00:00:00,29/06/2010,00:00:00,TRUE,FALSE,27/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Peter, Apostle or Peter and Paul, Apostles [4] Red",29/06/2010,00:00:00,30/06/2010,00:00:00,TRUE,FALSE,28/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Alexander Jolly, Bishop, 1838 [6] White (translated from 27 June)",30/06/2010,00:00:00,01/07/2010,00:00:00,TRUE,FALSE,29/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Serf, Bishop, c.550 [6] White",01/07/2010,00:00:00,02/07/2010,00:00:00,TRUE,FALSE,30/06/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 5,02/07/2010,00:00:00,03/07/2010,00:00:00,TRUE,FALSE,01/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Thomas, Apostle [4] Red (if not kept on 21 December)",03/07/2010,00:00:00,04/07/2010,00:00:00,TRUE,FALSE,02/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 6 [3] Green; SPB Trinity 5,04/07/2010,00:00:00,05/07/2010,00:00:00,TRUE,FALSE,03/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 6,05/07/2010,00:00:00,06/07/2010,00:00:00,TRUE,FALSE,04/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Palladius, Bishop, c.450 [6] White",06/07/2010,00:00:00,07/07/2010,00:00:00,TRUE,FALSE,05/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 6,07/07/2010,00:00:00,08/07/2010,00:00:00,TRUE,FALSE,06/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 6,08/07/2010,00:00:00,09/07/2010,00:00:00,TRUE,FALSE,07/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 6,09/07/2010,00:00:00,10/07/2010,00:00:00,TRUE,FALSE,08/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 6,10/07/2010,00:00:00,11/07/2010,00:00:00,TRUE,FALSE,09/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 7 [3] Green; SPB Trinity 6,11/07/2010,00:00:00,12/07/2010,00:00:00,TRUE,FALSE,10/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Drostan of Deer, Abbot, c.600 [6] White",12/07/2010,00:00:00,13/07/2010,00:00:00,TRUE,FALSE,11/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Benedict of Nursia, Abbot, c.550 [6] White (translated from 11 July)",13/07/2010,00:00:00,14/07/2010,00:00:00,TRUE,FALSE,12/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 7,14/07/2010,00:00:00,15/07/2010,00:00:00,TRUE,FALSE,13/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 7,15/07/2010,00:00:00,16/07/2010,00:00:00,TRUE,FALSE,14/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 7,16/07/2010,00:00:00,17/07/2010,00:00:00,TRUE,FALSE,15/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 7,17/07/2010,00:00:00,18/07/2010,00:00:00,TRUE,FALSE,16/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 8 [3] Green; SPB Trinity 7,18/07/2010,00:00:00,19/07/2010,00:00:00,TRUE,FALSE,17/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 8,19/07/2010,00:00:00,20/07/2010,00:00:00,TRUE,FALSE,18/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 8,20/07/2010,00:00:00,21/07/2010,00:00:00,TRUE,FALSE,19/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"William Wilberforce, 1833 [6] White",21/07/2010,00:00:00,22/07/2010,00:00:00,TRUE,FALSE,20/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Mary Magdalene [4] White,22/07/2010,00:00:00,23/07/2010,00:00:00,TRUE,FALSE,21/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 8,23/07/2010,00:00:00,24/07/2010,00:00:00,TRUE,FALSE,22/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 8,24/07/2010,00:00:00,25/07/2010,00:00:00,TRUE,FALSE,23/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 9 [3] Green; SPB Trinity 8,25/07/2010,00:00:00,26/07/2010,00:00:00,TRUE,FALSE,24/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"James, Apostle [4] Red (translated from 25 July)",26/07/2010,00:00:00,27/07/2010,00:00:00,TRUE,FALSE,25/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Anne and Joachim, Parents of Mary, Mother of the Lord [6] White (translated from 26 July)",27/07/2010,00:00:00,28/07/2010,00:00:00,TRUE,FALSE,26/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 9,28/07/2010,00:00:00,29/07/2010,00:00:00,TRUE,FALSE,27/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Martha and Mary of Bethany [6] White,29/07/2010,00:00:00,30/07/2010,00:00:00,TRUE,FALSE,28/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Silas, Companion of Saint Paul [6] White",30/07/2010,00:00:00,31/07/2010,00:00:00,TRUE,FALSE,29/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ignatius Loyola, Priest and Religious, 1556 [6] White",31/07/2010,00:00:00,01/08/2010,00:00:00,TRUE,FALSE,30/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 10 [3] Green; SPB Trinity 9,01/08/2010,00:00:00,02/08/2010,00:00:00,TRUE,FALSE,31/07/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 10,02/08/2010,00:00:00,03/08/2010,00:00:00,TRUE,FALSE,01/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 10,03/08/2010,00:00:00,04/08/2010,00:00:00,TRUE,FALSE,02/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 10,04/08/2010,00:00:00,05/08/2010,00:00:00,TRUE,FALSE,03/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Oswald of Northumbria, Martyr, 642 [6] Red",05/08/2010,00:00:00,06/08/2010,00:00:00,TRUE,FALSE,04/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+THE TRANSFIGURATION OF THE LORD [2] White,06/08/2010,00:00:00,07/08/2010,00:00:00,TRUE,FALSE,05/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Boisil, Prior of Melrose, c.642 [6] White",07/08/2010,00:00:00,08/08/2010,00:00:00,TRUE,FALSE,06/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 11 [3] Green; SPB Trinity 10,08/08/2010,00:00:00,09/08/2010,00:00:00,TRUE,FALSE,07/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John Mason Neale, Priest, 1886 [6] White",09/08/2010,00:00:00,10/08/2010,00:00:00,TRUE,FALSE,08/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Lawrence, Deacon and Martyr, 258 [6] Red",10/08/2010,00:00:00,11/08/2010,00:00:00,TRUE,FALSE,09/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Clare of Assisi, Religious, 1253 [6] White",11/08/2010,00:00:00,12/08/2010,00:00:00,TRUE,FALSE,10/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Blane, Missionary, c.590 [6] White",12/08/2010,00:00:00,13/08/2010,00:00:00,TRUE,FALSE,11/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Jeremy Taylor, Bishop, 1667 [6] White",13/08/2010,00:00:00,14/08/2010,00:00:00,TRUE,FALSE,12/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Maximilien Kolbe, Priest and Martyr, 1941 [6] Red",14/08/2010,00:00:00,15/08/2010,00:00:00,TRUE,FALSE,13/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 12 [3] Green; SPB Trinity 11,15/08/2010,00:00:00,16/08/2010,00:00:00,TRUE,FALSE,14/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Mary the Virgin [4] White (translated from 15 August),16/08/2010,00:00:00,17/08/2010,00:00:00,TRUE,FALSE,15/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 12,17/08/2010,00:00:00,18/08/2010,00:00:00,TRUE,FALSE,16/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 12,18/08/2010,00:00:00,19/08/2010,00:00:00,TRUE,FALSE,17/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 12,19/08/2010,00:00:00,20/08/2010,00:00:00,TRUE,FALSE,18/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Bernard of Clairvaux, Aboot & Teacher of the Faith, 1153 [6] White",20/08/2010,00:00:00,21/08/2010,00:00:00,TRUE,FALSE,19/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 12,21/08/2010,00:00:00,22/08/2010,00:00:00,TRUE,FALSE,20/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 13 [3] Green; SPB Trinity 12,22/08/2010,00:00:00,23/08/2010,00:00:00,TRUE,FALSE,21/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 13,23/08/2010,00:00:00,24/08/2010,00:00:00,TRUE,FALSE,22/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Bartholomew, Apostle [4] Red",24/08/2010,00:00:00,25/08/2010,00:00:00,TRUE,FALSE,23/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ebba of Coldingham, Abbess, 683 [6] White",25/08/2010,00:00:00,26/08/2010,00:00:00,TRUE,FALSE,24/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 13,26/08/2010,00:00:00,27/08/2010,00:00:00,TRUE,FALSE,25/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Monnica, Mother of Augustine of Hippo, 387 [6] White",27/08/2010,00:00:00,28/08/2010,00:00:00,TRUE,FALSE,26/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Augustine of Hippo, Bishop & Teacher of the Faith, 430 [6] White",28/08/2010,00:00:00,29/08/2010,00:00:00,TRUE,FALSE,27/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 14 [3] Green; SPB Trinity 13,29/08/2010,00:00:00,30/08/2010,00:00:00,TRUE,FALSE,28/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Beheading of John the Baptist [4] Red (translated from 29 August),30/08/2010,00:00:00,31/08/2010,00:00:00,TRUE,FALSE,29/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Aidan of Lindisfarne, Bishop, 651 [6] White",31/08/2010,00:00:00,01/09/2010,00:00:00,TRUE,FALSE,30/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 14,01/09/2010,00:00:00,02/09/2010,00:00:00,TRUE,FALSE,31/08/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"The Martyrs of New Guinea, 1942 [6] Red",02/09/2010,00:00:00,03/09/2010,00:00:00,TRUE,FALSE,01/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Gregory the Great, Bishop and Teacher of the Faith [6] White",03/09/2010,00:00:00,04/09/2010,00:00:00,TRUE,FALSE,02/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 14,04/09/2010,00:00:00,05/09/2010,00:00:00,TRUE,FALSE,03/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 15 [3] Green; SPB Trinity 14,05/09/2010,00:00:00,06/09/2010,00:00:00,TRUE,FALSE,04/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 15,06/09/2010,00:00:00,07/09/2010,00:00:00,TRUE,FALSE,05/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 15,07/09/2010,00:00:00,08/09/2010,00:00:00,TRUE,FALSE,06/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"The Birth of Mary, Mother of the Lord [5] White",08/09/2010,00:00:00,09/09/2010,00:00:00,TRUE,FALSE,07/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 15,09/09/2010,00:00:00,10/09/2010,00:00:00,TRUE,FALSE,08/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 15,10/09/2010,00:00:00,11/09/2010,00:00:00,TRUE,FALSE,09/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 15,11/09/2010,00:00:00,12/09/2010,00:00:00,TRUE,FALSE,10/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 16 [3] Green; SPB Trinity 15,12/09/2010,00:00:00,13/09/2010,00:00:00,TRUE,FALSE,11/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Cyprian of Carthage, Bishop and Martyr, 258 [6] Red",13/09/2010,00:00:00,14/09/2010,00:00:00,TRUE,FALSE,12/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Holy Cross Day [5] White or Red,14/09/2010,00:00:00,15/09/2010,00:00:00,TRUE,FALSE,13/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 16,15/09/2010,00:00:00,16/09/2010,00:00:00,TRUE,FALSE,14/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ninian of Whithorn, Bishop, c.430 [4] White",16/09/2010,00:00:00,17/09/2010,00:00:00,TRUE,FALSE,15/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Hildegard of Bingen, Abbess, 1179 [6] White",17/09/2010,00:00:00,18/09/2010,00:00:00,TRUE,FALSE,16/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 16,18/09/2010,00:00:00,19/09/2010,00:00:00,TRUE,FALSE,17/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 17 [3] Green; SPB Trinity 16,19/09/2010,00:00:00,20/09/2010,00:00:00,TRUE,FALSE,18/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"John Coleridge Patteson, Bishop and Martyr, 1871 [6] Red",20/09/2010,00:00:00,21/09/2010,00:00:00,TRUE,FALSE,19/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Matthew, Apostle and Evangelist [4] Red",21/09/2010,00:00:00,22/09/2010,00:00:00,TRUE,FALSE,20/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Wednesday after Pentecost 17 (Ordination of the Bishop of Aberdeen, 2007)",22/09/2010,00:00:00,23/09/2010,00:00:00,TRUE,FALSE,21/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Adamnan of Iona, Abbot, 704 [6] White",23/09/2010,00:00:00,24/09/2010,00:00:00,TRUE,FALSE,22/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 17,24/09/2010,00:00:00,25/09/2010,00:00:00,TRUE,FALSE,23/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Finnbar of Caithness, Bishop, c.610 [6] White",25/09/2010,00:00:00,26/09/2010,00:00:00,TRUE,FALSE,24/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 18 [3] Green; SPB Trinity 17,26/09/2010,00:00:00,27/09/2010,00:00:00,TRUE,FALSE,25/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Vincent de Paul, Priest, 1660 [6] White",27/09/2010,00:00:00,28/09/2010,00:00:00,TRUE,FALSE,26/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 18,28/09/2010,00:00:00,29/09/2010,00:00:00,TRUE,FALSE,27/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Michael and All Angels [4] White,29/09/2010,00:00:00,30/09/2010,00:00:00,TRUE,FALSE,28/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Jerome, Priest and Teacher of the Faith, 420 [6] White",30/09/2010,00:00:00,01/10/2010,00:00:00,TRUE,FALSE,29/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Gregory the Enlightener, Bishop, c.332 [6] White",01/10/2010,00:00:00,02/10/2010,00:00:00,TRUE,FALSE,30/09/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 18,02/10/2010,00:00:00,03/10/2010,00:00:00,TRUE,FALSE,01/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 19 [3] Green; SPB Trinity 18,03/10/2010,00:00:00,04/10/2010,00:00:00,TRUE,FALSE,02/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Francis of Assisi, Deacon and Friar, 1226 [6] White",04/10/2010,00:00:00,05/10/2010,00:00:00,TRUE,FALSE,03/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 19,05/10/2010,00:00:00,06/10/2010,00:00:00,TRUE,FALSE,04/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 19,06/10/2010,00:00:00,07/10/2010,00:00:00,TRUE,FALSE,05/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 19,07/10/2010,00:00:00,08/10/2010,00:00:00,TRUE,FALSE,06/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Alexander Penrose Forbes, Bishop, 1875 [6] White (Ordination of the Bishop of Brechin, 2005)",08/10/2010,00:00:00,09/10/2010,00:00:00,TRUE,FALSE,07/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 19,09/10/2010,00:00:00,10/10/2010,00:00:00,TRUE,FALSE,08/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 20 [3] Green; SPB Trinity 19,10/10/2010,00:00:00,11/10/2010,00:00:00,TRUE,FALSE,09/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Kenneth, Abbot, 600 [6] White",11/10/2010,00:00:00,12/10/2010,00:00:00,TRUE,FALSE,10/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Elizabeth Fry, 1845 [6] White",12/10/2010,00:00:00,13/10/2010,00:00:00,TRUE,FALSE,11/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Wednesday after Pentecost 20 (Ordination of the Bishop of Moray, 2007)",13/10/2010,00:00:00,14/10/2010,00:00:00,TRUE,FALSE,12/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 20,14/10/2010,00:00:00,15/10/2010,00:00:00,TRUE,FALSE,13/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Teresa of Avila, Teacher of the Faith, 1582 [6] White",15/10/2010,00:00:00,16/10/2010,00:00:00,TRUE,FALSE,14/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 20,16/10/2010,00:00:00,17/10/2010,00:00:00,TRUE,FALSE,15/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 21 [3] Green; SPB Trinity 20,17/10/2010,00:00:00,18/10/2010,00:00:00,TRUE,FALSE,16/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Luke, Evangelist [4] Red",18/10/2010,00:00:00,19/10/2010,00:00:00,TRUE,FALSE,17/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Henry Martyn, Priest and Missionary, 1812 [6] White",19/10/2010,00:00:00,20/10/2010,00:00:00,TRUE,FALSE,18/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Ignatius of Antioch, Bishop and Martyr, c.115 [6] Red (translated from 17 October)",20/10/2010,00:00:00,21/10/2010,00:00:00,TRUE,FALSE,19/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 21,21/10/2010,00:00:00,22/10/2010,00:00:00,TRUE,FALSE,20/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 21,22/10/2010,00:00:00,23/10/2010,00:00:00,TRUE,FALSE,21/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"James of Jerusalem, Martyr, c.62 [6] Red",23/10/2010,00:00:00,24/10/2010,00:00:00,TRUE,FALSE,22/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 22 [3] Green; SPB Trinity 21 (Fifth Sunday before Advent),24/10/2010,00:00:00,25/10/2010,00:00:00,TRUE,FALSE,23/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 22,25/10/2010,00:00:00,26/10/2010,00:00:00,TRUE,FALSE,24/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Tuesday after Pentecost 22,26/10/2010,00:00:00,27/10/2010,00:00:00,TRUE,FALSE,25/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Wednesday after Pentecost 22,27/10/2010,00:00:00,28/10/2010,00:00:00,TRUE,FALSE,26/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Simon and Jude, Apostles [4] Red",28/10/2010,00:00:00,29/10/2010,00:00:00,TRUE,FALSE,27/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"James Hannington, Bishop and Companions, Martyrs, 1885 [6] Red",29/10/2010,00:00:00,30/10/2010,00:00:00,TRUE,FALSE,28/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 22,30/10/2010,00:00:00,31/10/2010,00:00:00,TRUE,FALSE,29/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 23 [3] Green; SPB Trinity 22 (Fourth Sunday before Advent),31/10/2010,00:00:00,01/11/2010,00:00:00,TRUE,FALSE,30/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+ALL SAINTS [2] White,01/11/2010,00:00:00,02/11/2010,00:00:00,TRUE,FALSE,31/10/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"All Souls [5] Violet or White (Ordination of the Bishop of Edinburgh, 1993)",02/11/2010,00:00:00,03/11/2010,00:00:00,TRUE,FALSE,01/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Richard Hooker, Priest and Teacher of the Faith, 1660 [6] White",03/11/2010,00:00:00,04/11/2010,00:00:00,TRUE,FALSE,02/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Thursday after Pentecost 23,04/11/2010,00:00:00,05/11/2010,00:00:00,TRUE,FALSE,03/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 23,05/11/2010,00:00:00,06/11/2010,00:00:00,TRUE,FALSE,04/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 23,06/11/2010,00:00:00,07/11/2010,00:00:00,TRUE,FALSE,05/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Pentecost 24 [3] Green; SPB Trinity 23 (Third Sunday before Advent),07/11/2010,00:00:00,08/11/2010,00:00:00,TRUE,FALSE,06/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Willibrord, Bishop and Missionary, 739 [6] White (translated from 7 November)",08/11/2010,00:00:00,09/11/2010,00:00:00,TRUE,FALSE,07/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"George Hay Forbes, Priest, 1875 [6] White",09/11/2010,00:00:00,10/11/2010,00:00:00,TRUE,FALSE,08/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Leo the Great, Bishop and Teacher of the Faith, 461 [6] White",10/11/2010,00:00:00,11/11/2010,00:00:00,TRUE,FALSE,09/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Martin of Tours, Bishop, c.397 [6] White",11/11/2010,00:00:00,12/11/2010,00:00:00,TRUE,FALSE,10/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Machar, Bishop, c.600 [6] White",12/11/2010,00:00:00,13/11/2010,00:00:00,TRUE,FALSE,11/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 24,13/11/2010,00:00:00,14/11/2010,00:00:00,TRUE,FALSE,12/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Pentecost 25 [3] Green; SPB Trinity 24 (Second Sunday before Advent) (Ordination of Samuel Seabury, Bishop, 1784)",14/11/2010,00:00:00,15/11/2010,00:00:00,TRUE,FALSE,13/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Monday after Pentecost 25,15/11/2010,00:00:00,16/11/2010,00:00:00,TRUE,FALSE,14/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Margaret of Scotland, 1093 [4] White",16/11/2010,00:00:00,17/11/2010,00:00:00,TRUE,FALSE,15/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Hilda of Whitby, 680 and Hugh of Lincoln, Bishop, 1200 [6] White",17/11/2010,00:00:00,18/11/2010,00:00:00,TRUE,FALSE,16/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Fergus, Bishop, c.750 [6] White",18/11/2010,00:00:00,19/11/2010,00:00:00,TRUE,FALSE,17/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after Pentecost 25,19/11/2010,00:00:00,20/11/2010,00:00:00,TRUE,FALSE,18/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after Pentecost 25,20/11/2010,00:00:00,21/11/2010,00:00:00,TRUE,FALSE,19/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+The Last Sunday after Pentecost (Christ the King) [3] White or Red (The Sunday before Advent),21/11/2010,00:00:00,22/11/2010,00:00:00,TRUE,FALSE,20/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Cecilia, Martyr, c.230 [6] White",22/11/2010,00:00:00,23/11/2010,00:00:00,TRUE,FALSE,21/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Clement of Rome, Bishop and Martyr, c.100 [6] Red",23/11/2010,00:00:00,24/11/2010,00:00:00,TRUE,FALSE,22/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Lucy Menzies, 1954 [6] White",24/11/2010,00:00:00,25/11/2010,00:00:00,TRUE,FALSE,23/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+"Columban, Bishop, 615 [6] White (translated from 21 November)",25/11/2010,00:00:00,26/11/2010,00:00:00,TRUE,FALSE,24/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Friday after the Last Sunday after Pentecost,26/11/2010,00:00:00,27/11/2010,00:00:00,TRUE,FALSE,25/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
+Saturday after the Last Sunday after Pentecost,27/11/2010,00:00:00,28/11/2010,00:00:00,TRUE,FALSE,26/11/2010,23:45:00,,,,,,,,,,Normal,,Normal,3
