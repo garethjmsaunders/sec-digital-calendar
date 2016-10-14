@@ -25,6 +25,8 @@
 
 ## 1. About
 
+This repository contains the source files for the SEC digital calendar project hosted at <http://www.seccalendar.co.uk>.
+
 These files allow you to import or subscribe to the [Scottish Episcopal Church](http://www.scotland.anglican.org/) calendar (saints’ days, festivals and readings) using Microsoft Office Outlook Calendar, Google Calendar, or any other compatible calendar application.
 
 The files were originally produced for my own personal use, so they may not have all the details that you want in them.
