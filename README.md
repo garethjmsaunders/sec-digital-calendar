@@ -179,7 +179,7 @@ Gospel
 
 ```
 Week of Advent 1
-Andrew,Apostle, Patron of Scotland [4] Red
+Andrew, Apostle, Patron of Scotland [4] Red
 30 November
 
 EUCHARIST
