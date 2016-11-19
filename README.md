@@ -1,7 +1,7 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.1
-* Last updated: Friday 14 October 2016
+* Version: 3.2
+* Last updated: Saturday 19 November 2016
 
 
 <!-- MarkdownTOC -->
@@ -12,7 +12,9 @@
     - [Accuracy](#accuracy)
     - [Sources](#sources)
 - [2. Style guide](#2-style-guide)
-    - [Format of description field](#format-of-description-field)
+    - [Sundays](#sundays)
+    - [Weekdays](#weekdays)
+    - [Feast days](#feast-days)
     - [Reading style](#reading-style)
 - [3. Other editions](#3-other-editions)
     - [Church of England edition](#church-of-england-edition)
@@ -36,7 +38,7 @@ Feel free to adapt these files for your own use, subject to your agreement of th
 
 ### Readings
 
-The readings for category 4 saints days and lesser festivals are simply those for that day of the week in relation to the previous Sunday rather than specifically for that minor saint/festival. For example, the readings given for Ambrose of Milan (Friday 07 December) are those for the Friday of Advent 1.
+The readings for category 4 saints days and lesser festivals are simply those for that day of the week in relation to the previous Sunday rather than specifically for that minor saint/festival. For example, the readings given for Ambrose of Milan (Friday 7 December) are those for the Friday of Advent 1.
 
 In other words, I've used only readings from The Lectionary and the Readings for Festivals, and not those from elsewhere or from the Readings for Special Occasions or Common Readings for Saints Days.
 
@@ -73,62 +75,155 @@ Material from the Revised Common Lectionary copyright © 1992 by the Consultatio
 
 The following style guide is use when compiling the documents.
 
+Note that Outlook 2007+ for some obscure reason changes uppercase words to a blue-formatted heading. 
 
-### Format of description field
 
-All information in the description field MUST be in
-sentence case (i.e. NOT UPPERCASE) as Outlook 2007+ changes 
-uppercase to a blue-formatted heading.
+### Sundays
 
 ```
-[DAY]
-Seraphim of Sarov, 1833 [6] White
-02 January
-Thursday after the First Sunday after Christmas
+Week of Proper 45
+FIRST SUNDAY OF SEASON [1|2] Colour | Second Sunday after Season [3] Green
+[SPB Third Sunday after Season]
+(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
+
+EUCHARIST
+
+{Continuous: | Service:}
+OT
+Psalm
+NT
+Gospel
+
+[
+{Thematic: | Service:}
+OT
+Psalm
+NT
+Gospel
+]
+
+DAILY PRAYER: {Week | Season}
+OT
+NT
+Gospel
+
+[ or
+MORNING PRAYER: Season
+OT
+NT
+
+EVENING PRAYER: Season
+OT
+NT
+]
+
+ALTERNATIVE PSALMS
+Morning: Psalm
+Evening: Psalm
+
+---
+
+SPECIAL SUNDAY
+
+EUCHARIST
+OT
+Psalm
+NT
+Gospel
 ```
 
-or
+
+### Weekdays
 
 ```
-Wednesday after Pentecost 6
-Week of Proper 14 [3] Green
+Week of Season 1 | The days following Season | etc.
+Name, Priest, 1916 [6] White | FESTIVAL [1] White
+Thursday after First Sunday of Season
+7 January
+[Rogation Day | Ember Day]
+(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
+
+DAILY EUCHARIST (Colour)
+NT
+Psalm
+Gospel
+
+DAILY PRAYER: {Week | Season}
+OT
+NT
+Gospel
+
+[ or 
+MORNING PRAYER: Season
+OT
+NT
+
+Evening before FESTIVAL (4 Month)
+
+EVENING PRAYER: Season
+OT
+NT
+]
+
+[
+ROGATION | EMBER DAY READINGS
+OT
+Psalm
+NT
+Gospel
+]
 ```
 
-or
+
+### Feast days
 
 ```
-[SUNDAY]
-Remembrance Sunday
-Pentecost 22 [3] Green; SPB Trinity 21
-Week of Proper 32
+Week of Advent 1
+Andrew,Apostle, Patron of Scotland [4] Red
+30 November
 
-[Daily] Eucharist (Green)
-
-Continuous: | Thematic: | Feast day-specific:
-
+EUCHARIST
 OT
 Psalm
 [NT]
 Gospel
 
-Daily Prayer: {Week A | Season}
-[Morning:]
+MORNING PRAYER: Festivals
 OT
 NT
 Gospel
 
-[Evening:]
+EVENING PRAYER: Festivals
 OT
 NT
 Gospel
 
-Alternative Psalms
+---
+
+Week of Advent 1
+Thursday after First Sunday of Advent
+30 November
+
+DAILY EUCHARIST (Violet)
+OT
+Psalm
+Gospel
+
+DAILY PRAYER: Anticipation
+OT
+NT
+Gospel
+
+ALTERNATIVE PSALMS
 Morning: Psalm 1 | Psalms 1 and 3 | {options below}
 Evening: Psalm 2
 ```
 
 
+
+
 ---
+
 ### Reading style
 
 In this style guide I have changed a few of the conventions used in the SEC Calendar and Lectionary to reference Bible passages. This is in the interest of improved clarity.
@@ -137,14 +232,14 @@ Reading ranges MUST be laid out in the following formats:
 
 ```
 Reading 1:1-10
-Reading 2:1-10, 15-20
-Reading 2:1, 15-20
-Reading 3:1-10, (15-20)
-Reading 3:(1), 15-20
-Reading 3:(1-10), 15-20
-Reading 4:1 - 5:10
-Reading 4:1-5; 5:1-10
-Reading 5:1-5 or Reading 6:1-10, 15-20
+Reading 1:1-10, 15-20
+Reading 1:1, 15-20
+Reading 1:1-10, (15-20)
+Reading 1:(1), 15-20
+Reading 1:(1-10), 15-20
+Reading 1:1 - 2:10
+Reading 1:1-5; 2:1-10
+Reading 1:1-5 or Reading 2:1-10, 15-20
 ```
 
 
