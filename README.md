@@ -13,6 +13,9 @@
     - [Sources](#sources)
 - [2. Style guide](#2-style-guide)
     - [Format of description field](#format-of-description-field)
+        - [Weekdays](#weekdays)
+        - [Sundays](#sundays)
+        - [Feast days](#feast-days)
     - [Reading style](#reading-style)
 - [3. Other editions](#3-other-editions)
     - [Church of England edition](#church-of-england-edition)
@@ -36,7 +39,7 @@ Feel free to adapt these files for your own use, subject to your agreement of th
 
 ### Readings
 
-The readings for category 4 saints days and lesser festivals are simply those for that day of the week in relation to the previous Sunday rather than specifically for that minor saint/festival. For example, the readings given for Ambrose of Milan (Friday 07 December) are those for the Friday of Advent 1.
+The readings for category 4 saints days and lesser festivals are simply those for that day of the week in relation to the previous Sunday rather than specifically for that minor saint/festival. For example, the readings given for Ambrose of Milan (Friday 7 December) are those for the Friday of Advent 1.
 
 In other words, I've used only readings from The Lectionary and the Readings for Festivals, and not those from elsewhere or from the Readings for Special Occasions or Common Readings for Saints Days.
 
@@ -76,15 +79,15 @@ The following style guide is use when compiling the documents.
 
 ### Format of description field
 
-All information in the description field MUST be in
-sentence case (i.e. NOT UPPERCASE) as Outlook 2007+ changes 
-uppercase to a blue-formatted heading.
+Note that Outlook 2007+ changes uppercase to a blue-formatted heading.
+
+#### Weekdays
 
 ```
 [DAY]
 Seraphim of Sarov, 1833 [6] White
-02 January
 Thursday after the First Sunday after Christmas
+2 January
 ```
 
 or
@@ -94,15 +97,17 @@ Wednesday after Pentecost 6
 Week of Proper 14 [3] Green
 ```
 
-or
+
+#### Sundays
 
 ```
 [SUNDAY]
 Remembrance Sunday
 Pentecost 22 [3] Green; SPB Trinity 21
 Week of Proper 32
+Date
 
-[Daily] Eucharist (Green)
+[DAILY] EUCHARIST (Green)
 
 Continuous: | Thematic: | Feast day-specific:
 
@@ -111,24 +116,72 @@ Psalm
 [NT]
 Gospel
 
-Daily Prayer: {Week A | Season}
+{DAILY | MORNING} PRAYER: {Week A | Season}
 [Morning:]
 OT
 NT
 Gospel
 
-[Evening:]
+[EVENING PRAYER: {Week A | Season}]
 OT
 NT
 Gospel
 
-Alternative Psalms
+ALTERNATIVE PSALMS
 Morning: Psalm 1 | Psalms 1 and 3 | {options below}
 Evening: Psalm 2
 ```
 
 
+#### Feast days
+
+```
+Week of Advent 1
+Andrew,Apostle, Patron of Scotland [4] Red
+Date
+
+EUCHARIST
+OT
+Psalm
+[NT]
+Gospel
+
+MORNING PRAYER: Festivals
+OT
+NT
+Gospel
+
+EVENING PRAYER: Festivals
+OT
+NT
+Gospel
+
 ---
+
+Week of Advent 1
+Wednesday after First Sunday of Advent
+Date
+
+DAILY EUCHARIST (Violet)
+OT
+Psalm
+Gospel
+
+DAILY PRAYER: Anticipation
+OT
+NT
+Gospel
+
+ALTERNATIVE PSALMS
+Morning: Psalm 1 | Psalms 1 and 3 | {options below}
+Evening: Psalm 2
+```
+
+
+
+
+---
+
 ### Reading style
 
 In this style guide I have changed a few of the conventions used in the SEC Calendar and Lectionary to reference Bible passages. This is in the interest of improved clarity.
@@ -137,14 +190,14 @@ Reading ranges MUST be laid out in the following formats:
 
 ```
 Reading 1:1-10
-Reading 2:1-10, 15-20
-Reading 2:1, 15-20
-Reading 3:1-10, (15-20)
-Reading 3:(1), 15-20
-Reading 3:(1-10), 15-20
-Reading 4:1 - 5:10
-Reading 4:1-5; 5:1-10
-Reading 5:1-5 or Reading 6:1-10, 15-20
+Reading 1:1-10, 15-20
+Reading 1:1, 15-20
+Reading 1:1-10, (15-20)
+Reading 1:(1), 15-20
+Reading 1:(1-10), 15-20
+Reading 1:1 - 2:10
+Reading 1:1-5; 2:1-10
+Reading 1:1-5 or Reading 2:1-10, 15-20
 ```
 
 
