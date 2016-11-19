@@ -1,7 +1,7 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.1
-* Last updated: Friday 14 October 2016
+* Version: 3.2
+* Last updated: Saturday 19 November 2016
 
 
 <!-- MarkdownTOC -->
@@ -12,10 +12,9 @@
     - [Accuracy](#accuracy)
     - [Sources](#sources)
 - [2. Style guide](#2-style-guide)
-    - [Format of description field](#format-of-description-field)
-        - [Weekdays](#weekdays)
-        - [Sundays](#sundays)
-        - [Feast days](#feast-days)
+    - [Sundays](#sundays)
+    - [Weekdays](#weekdays)
+    - [Feast days](#feast-days)
     - [Reading style](#reading-style)
 - [3. Other editions](#3-other-editions)
     - [Church of England edition](#church-of-england-edition)
@@ -76,69 +75,112 @@ Material from the Revised Common Lectionary copyright © 1992 by the Consultatio
 
 The following style guide is use when compiling the documents.
 
+Note that Outlook 2007+ for some obscure reason changes uppercase words to a blue-formatted heading. 
 
-### Format of description field
 
-Note that Outlook 2007+ changes uppercase to a blue-formatted heading.
-
-#### Weekdays
+### Sundays
 
 ```
-[DAY]
-Seraphim of Sarov, 1833 [6] White
-Thursday after the First Sunday after Christmas
-2 January
-```
+Week of Proper 45
+FIRST SUNDAY OF SEASON [1|2] Colour | Second Sunday after Season [3] Green
+[SPB Third Sunday after Season]
+(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
 
-or
+EUCHARIST
 
-```
-Wednesday after Pentecost 6
-Week of Proper 14 [3] Green
-```
-
-
-#### Sundays
-
-```
-[SUNDAY]
-Remembrance Sunday
-Pentecost 22 [3] Green; SPB Trinity 21
-Week of Proper 32
-Date
-
-[DAILY] EUCHARIST (Green)
-
-Continuous: | Thematic: | Feast day-specific:
-
+{Continuous: | Service:}
 OT
 Psalm
-[NT]
+NT
 Gospel
 
-{DAILY | MORNING} PRAYER: {Week A | Season}
-[Morning:]
+[
+{Thematic: | Service:}
+OT
+Psalm
+NT
+Gospel
+]
+
+DAILY PRAYER: {Week | Season}
 OT
 NT
 Gospel
 
-[EVENING PRAYER: {Week A | Season}]
+[ or
+MORNING PRAYER: Season
 OT
 NT
-Gospel
+
+EVENING PRAYER: Season
+OT
+NT
+]
 
 ALTERNATIVE PSALMS
-Morning: Psalm 1 | Psalms 1 and 3 | {options below}
-Evening: Psalm 2
+Morning: Psalm
+Evening: Psalm
+
+---
+
+SPECIAL SUNDAY
+
+EUCHARIST
+OT
+Psalm
+NT
+Gospel
 ```
 
 
-#### Feast days
+### Weekdays
+
+```
+Week of Season 1 | The days following Season | etc.
+Name, Priest, 1916 [6] White | FESTIVAL [1] White
+Thursday after First Sunday of Season
+7 January
+[Rogation Day | Ember Day]
+(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
+
+DAILY EUCHARIST (Colour)
+NT
+Psalm
+Gospel
+
+DAILY PRAYER: {Week | Season}
+OT
+NT
+Gospel
+
+[ or 
+MORNING PRAYER: Season
+OT
+NT
+
+Evening before FESTIVAL (4 Month)
+
+EVENING PRAYER: Season
+OT
+NT
+]
+
+[
+ROGATION | EMBER DAY READINGS
+OT
+Psalm
+NT
+Gospel
+]
+```
+
+
+### Feast days
 
 ```
 Week of Advent 1
 Andrew,Apostle, Patron of Scotland [4] Red
-Date
+30 November
 
 EUCHARIST
 OT
@@ -159,8 +201,8 @@ Gospel
 ---
 
 Week of Advent 1
-Wednesday after First Sunday of Advent
-Date
+Thursday after First Sunday of Advent
+30 November
 
 DAILY EUCHARIST (Violet)
 OT
