@@ -1,7 +1,7 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.2
-* Last updated: Saturday 19 November 2016
+* Version: 3.3.0
+* Last updated: Tuesday 28 November 2017
 
 
 <!-- MarkdownTOC -->
@@ -12,10 +12,12 @@
     - [Accuracy](#accuracy)
     - [Sources](#sources)
 - [2. Style guide](#2-style-guide)
+    - [Key](#key)
     - [Sundays](#sundays)
     - [Weekdays](#weekdays)
     - [Feast days](#feast-days)
     - [Reading style](#reading-style)
+        - [Notes](#notes)
 - [3. Other editions](#3-other-editions)
     - [Church of England edition](#church-of-england-edition)
     - [Roman Catholic editions](#roman-catholic-editions)
@@ -73,49 +75,49 @@ Material from the Revised Common Lectionary copyright © 1992 by the Consultatio
 
 ## 2. Style guide
 
-The following style guide is use when compiling the documents.
+The following style guide is use when compiling the documents. It has been designed to be a simple and straight-forward as possible providing all the information in a readable format.
 
-Note that Outlook 2007+ for some obscure reason changes uppercase words to a blue-formatted heading. 
+Note that Outlook 2007+ for some obscure reason changes uppercase words to a blue-formatted heading.
+
+
+### Key
+
+* `{Optional}` : This information is optional.
+* `|`          : Or, the information after this is an alternative.
 
 
 ### Sundays
 
 ```
-Week of Proper 45
-FIRST SUNDAY OF SEASON [1|2] Colour | Second Sunday after Season [3] Green
-[SPB Third Sunday after Season]
-(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
+Week of Season | Week of Proper 45
+First Sunday of Season [1|2] Colour | Second Sunday after Season [3] Green
+SPB Third Sunday after Season | SPB Season 3
+(Ordination of the Rt Revd Surname, Bishop of Diocese, 2017)
 
-EUCHARIST
-
-{Continuous: | Service:}
+EUCHARIST{: Continuous}
 OT
 Psalm
 NT
 Gospel
 
-[
-{Thematic: | Service:}
+{EUCHARIST: Thematic
 OT
 Psalm
 NT
-Gospel
-]
+Gospel}
 
-DAILY PRAYER: {Week | Season}
+DAILY PRAYER: Week X | Season
 OT
 NT
 Gospel
 
-[ or
-MORNING PRAYER: Season
+[MORNING PRAYER: Season
 OT
 NT
 
 EVENING PRAYER: Season
 OT
-NT
-]
+NT]
 
 ALTERNATIVE PSALMS
 Morning: Psalm
@@ -135,20 +137,28 @@ Gospel
 
 ### Weekdays
 
+The order of information at the start of weekdays is as follows:
+
+1. Week of season, e.g. `Week of Proper 9 (if after Pentecost)`.
+2. Saint's day, e.g. `John XXIII, Bishop of Rome, Reformer, 1963 [6] White`.
+3. Day after Sunday, e.g. `Monday after Pentecost 2, Green`.
+4. Whether the day is a `Rogation Day` or `Ember Day`.
+5. Ordination of a bishop (in parentheses).
+
 ```
 Week of Season 1 | The days following Season | etc.
-Name, Priest, 1916 [6] White | FESTIVAL [1] White
-Thursday after First Sunday of Season
+Name, Priest, 1916 [6] Colour | Festival [1] Colour
+Thursday after First Sunday of Season, Colour
 7 January
 [Rogation Day | Ember Day]
-(Ordination of the Rt Revd Name, Bishop of Diocese, 2016)
+(Ordination of the Rt Revd Name, Bishop of Diocese, 2017)
 
-DAILY EUCHARIST (Colour)
+DAILY EUCHARIST
 NT
 Psalm
 Gospel
 
-DAILY PRAYER: {Week | Season}
+DAILY PRAYER: Week X | Season
 OT
 NT
 Gospel
@@ -226,7 +236,7 @@ Evening: Psalm 2
 
 ### Reading style
 
-In this style guide I have changed a few of the conventions used in the SEC Calendar and Lectionary to reference Bible passages. This is in the interest of improved clarity.
+In this style guide I have changed a few of the conventions used in the SEC Calendar and Lectionary to reference Bible passages. This is to improve clarity.
 
 Reading ranges MUST be laid out in the following formats:
 
@@ -242,6 +252,13 @@ Reading 1:1-5; 2:1-10
 Reading 1:1-5 or Reading 2:1-10, 15-20
 ```
 
+#### Notes
+
+* There must be no space before or after a colon (`:`). Colons are used to distinguish chapter (left of the colon) from verses (right of the colon).
+* There must always be a space after a comma (`,`) or semicolon (`;`).
+* There must be no space within a range (e.g. `1:1-10`) unless the range spans more than one chapter (e.g. `1:1 - 2:10`) in which case there must be a space either side of the dash to aid readability.
+* Dashes must be simple dashes (`-`), not an en dash `–` or em dash `–`.
+
 
 
 
@@ -251,7 +268,7 @@ Reading 1:1-5 or Reading 2:1-10, 15-20
 
 ### Church of England edition
 
-See Fr Simon Rundell's [Electronic Ordo](https://frsimon.wordpress.com/electric-ordo/) containing daily information and readings for Mass each day according to both the Anglican (Common Worship) or Roman lectionaries.
+See Fr Simon Rundell's [Electronic Ordo](http://www.frsimon.uk/electric-ordo-calendar/) containing daily information and readings for Mass each day according to both the Anglican (Common Worship) or Roman lectionaries.
 
 
 ### Roman Catholic editions
