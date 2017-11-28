@@ -75,7 +75,7 @@ Material from the Revised Common Lectionary copyright © 1992 by the Consultatio
 
 ## 2. Style guide
 
-The following style guide is use when compiling the documents.
+The following style guide is use when compiling the documents. It has been designed to be a simple and straight-forward as possible providing all the information in a readable format.
 
 Note that Outlook 2007+ for some obscure reason changes uppercase words to a blue-formatted heading.
 
