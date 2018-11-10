@@ -1,7 +1,7 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.3.0
-* Last updated: Tuesday 28 November 2017
+* Version: 3.3.1
+* Last updated: Saturday 10 November 2018
 
 
 <!-- MarkdownTOC -->
@@ -47,7 +47,7 @@ In other words, I've used only readings from The Lectionary and the Readings for
 
 ### Translations
 
-Where possible I have always translated the festival of a saint, if it coincides with a higher-category feast, to the next available date. It is possible that a suitable, nearby date has not been found and so that feast day has been omited for this year.
+Where possible I have always translated the festival of a saint, if it coincides with a higher-category feast, to the next available date. It is possible that a suitable, nearby date has not been found and so that feast day has been omitted for this year.
 
 
 ### Accuracy
