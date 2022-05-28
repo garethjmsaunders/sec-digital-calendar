@@ -1,8 +1,24 @@
-# Biographies for Saints' Days and Festivals of the Scottish Episcopal Church
+# Biographies for Saints' Days and Festivals<br>of the Scottish Episcopal Church
+
+## About
+
+This document is my work-in-progress draft of biographies for Saints' Days and Festivals of the Scottish Episcopal Church. My aim is to make this a freely avaliable resource for the SEC digital calendar and website.
+
+While there are at least two similar resources for the Scottish Episcopal Church:
+
+* _Exciting Holiness_ (2nd edition), edited by Brother Tristan, SSF, Canterbury Press, 2003
+* A local resource created by a former provost at the Cathedral of St Andrew, Inverness in the Diocese of Moray, Ross and Caithness.
+
+both are subject to copyright restrictions, so I decided to write my own.
+
+The Revd Gareth J M Saunders<br>
+Crail, Fife<br>
+Saturday 28 May 2022
+
+---
 
 
-
-## JANUARY
+## January
 
 
 ### The Naming of Jesus [2] White
@@ -17,7 +33,6 @@ Second, in accordance with Jewish tradition, eight days after his birth, the inf
 Third, this has traditionally been seen as the first time the blood of Christ was shed, marking the beginning of the process of the redemption of humanity as a precursor to his crucifixion. 
 
 This feast has been observed by the Church since at least the sixth century.
-
 
 
 ### Seraphim of Sarov, 1833 [6] White
@@ -35,58 +50,94 @@ He died on this day in 1833 and is venerated by the Eastern Orthodox Church as a
 
 
 ### THE EPIPHANY [1] White
-6 January
+#### 6 January
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
 
 ### William Laud, Bishop, 1645 [6] Red
-10 January
+#### 10 January
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
 
 ### David, King of Scots, 1153 [6] Red
-11 January
+#### 11 January
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
 
 ### Kentigern (or Mungo), Bishop c.603 [4] White
-13 January
+#### 13 January
 
-14 January
-Hilary of Poitiers, Bishop and Teacher of the Faith, c.367 [6] White
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
-17 January
-Antony of Egypt, Abbot, 356 [6] White
 
-18 January
-The Confession of Peter [6] White
+### Hilary of Poitiers, Bishop and Teacher of the Faith, c.367 [6] White
+#### 14 January
 
-21 January
-Agnes, Martyr, c.304 [6] Red
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
-24 January
-Francis de Sales, Bishop, 1622 [6] White
 
-25 January
-The Conversion of Paul, Apostle [4] White
+### Antony of Egypt, Abbot, 356 [6] White
+#### 17 January
 
-26 January
-Timothy and Titus, Bishops [6] White
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
-27 January
-John Chrysostom, Bishop and Teacher of the Faith, 407 [6] White
 
-28 January
-Thomas Aquinas, Teacher of the Faith, 1274 [6] White
+### The Confession of Peter [6] White
+#### 18 January
 
-30 January
-Charles I, King, 1649 [6] Red
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
 
-31 January
-Charles Mackenzie of Central Africa, Bishop, Missionary, Martyr, 1862 [6] Red
+
+### Agnes, Martyr, c.304 [6] Red
+#### 21 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Francis de Sales, Bishop, 1622 [6] White
+#### 24 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### The Conversion of Paul, Apostle [4] White
+#### 25 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Timothy and Titus, Bishops [6] White
+#### 26 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### John Chrysostom, Bishop and Teacher of the Faith, 407 [6] White
+#### 27 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Thomas Aquinas, Teacher of the Faith, 1274 [6] White
+#### 28 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Charles I, King, 1649 [6] Red
+#### 30 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Charles Mackenzie of Central Africa, Bishop, Missionary, Martyr, 1862 [6] Red
+#### 31 January
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
 
 ---
 
