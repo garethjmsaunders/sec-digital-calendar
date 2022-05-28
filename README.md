@@ -1,36 +1,34 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.4.0
-* Last updated: Wednesday 20 November 2019
+* Version: 3.5.0
+* Last updated: Saturday 28 May 2022
 
 
 <!-- MarkdownTOC -->
 
-- 1. About
-    - Readings
-    - Translations
-    - Accuracy
-    - Sources
-- 2. Style guide
-    - Sundays
-    - Weekdays
-    - Feast days
-    - Reading style
-        - Notes
-- 3. Other editions
-    - Church of England edition
-    - Roman Catholic editions
+- [1. About](#1-about)
+    - [Readings](#readings)
+    - [Translations](#translations)
+    - [Accuracy](#accuracy)
+    - [Sources](#sources)
+- [2. Style guide](#2-style-guide)
+    - [Sundays](#sundays)
+    - [Weekdays](#weekdays)
+    - [Feast days](#feast-days)
+    - [Reading style](#reading-style)
+        - [Notes](#notes)
 
 <!-- /MarkdownTOC -->
+
 
 
 ---
 
 ## 1. About
 
-This repository contains the source files for the SEC digital calendar project hosted at <http://www.seccalendar.co.uk>.
+This repository contains the source files for the SEC digital calendar project hosted at <https://www.seccalendar.org.uk/>.
 
-These files allow you to import or subscribe to the [Scottish Episcopal Church](http://www.scotland.anglican.org/) calendar (saints’ days, festivals and readings) using Microsoft Office Outlook Calendar, Google Calendar, or any other compatible calendar application.
+These files allow you to import or subscribe to the [Scottish Episcopal Church](https://www.scotland.anglican.org/) calendar (saints’ days, festivals and readings) using Microsoft Office Outlook Calendar, Google Calendar, or any other compatible calendar application.
 
 The files were originally produced for my own personal use, so they may not have all the details that you want in them.
 
@@ -67,7 +65,6 @@ To report any errors please email Gareth J M Saunders.
 The Guide to the Calendar and Lectionary is an annual publication that offers guidance on how to use the lectionary each church year, especially in relation to translated (moved) festivals.
 
 Material from the Revised Common Lectionary copyright © 1992 by the Consultation on Common Texts.
-
 
 
 
@@ -229,7 +226,6 @@ John 5:1–18
 
 
 
-
 ---
 
 ### Reading style
@@ -256,19 +252,3 @@ Reading 1:1–5 or Reading 2:1–10, 15–20
 * There must always be a space after a comma (`,`) or semicolon (`;`).
 * There must be no space within a range (e.g. `1:1-10`) unless the range spans more than one chapter (e.g. `1:1 - 2:10`) in which case there must be a space either side of the dash to aid readability.
 * Dashes must be an en dash `–`  not a simple dash (`-`) or em dash `–`.
-
-
-
-
----
-
-## 3. Other editions
-
-### Church of England edition
-
-See Fr Simon Rundell's [Electronic Ordo](http://www.frsimon.uk/electric-ordo-calendar/) containing daily information and readings for Mass each day according to both the Anglican (Common Worship) or Roman lectionaries.
-
-
-### Roman Catholic editions
-
-See [Catholic Apptitude](https://catholicapptitude.org/apps/catholic-calendar-apps/) for a number of similar calendar and lectionary resources.
