@@ -24,7 +24,7 @@ Saturday 28 May 2022
 ### The Naming of Jesus [2] White
 #### 1 January
 
-Sometimes referred to as the feast of the naming and circumcision of Jesus, this scriptural festival marks three events.
+The feast of the Naming of Jesus, in the Scottish Prayer Book (1929) is called the feast of the Circumcision of Christ. This scriptural festival marks three events.
 
 First, the circumcision of Jesus is a sign of the covenant between God and Abraham 'and his children for ever', and his obedience to Biblical law.
 
@@ -52,91 +52,99 @@ He died on this day in 1833 and is venerated by the Eastern Orthodox Church as a
 ### THE EPIPHANY [1] White
 #### 6 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+The date of this feast goes back to a tradition in the Eastern Church that celebrated both the Nativity of Jesus and his baptism.
+
+The word 'epiphany' means 'a sudden and great revelation or realisation'. This is echoed in the the subtitle of today's feast in the Scottish Prayer Book (1929) as 'the manifestation of Christ to the Gentiles'. The feast of the Epiphany emphasises that from the moment of incarnation, the good news of Jesus Christ is for all: Jews and Gentiles, rich and poor, wise and simple, male and female.
+
+There is nothing in the text of the gospels that suggests that the magi were all male, or kings (that seems to come from a much later tradition), or that there were only three. The three gifts of gold, frankincense and myrrh have a spiritual meaning: gold is symbolic of earthly kingship, frankincense a symbol of deity, and myrrh an embalming oil looking ahead to Jesus's death.
+
+During the season of Epiphany, which lasts until Lent, the Church also remembers the revelation of Christ to John the Baptist, to the disciples, and to all people, particularly in the healing miracles. The principal symbol of the season of Epiphany is light from the light of the Star of Bethlehem to the light of Christ spreading throughout the world.
+
+We are invited during this season to consider the ways in which we are called to bring Christ to the world.
 
 
 ### William Laud, Bishop, 1645 [6] Red
 #### 10 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### David, King of Scots, 1153 [6] Red
 #### 11 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Kentigern (or Mungo), Bishop c.603 [4] White
 #### 13 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Hilary of Poitiers, Bishop and Teacher of the Faith, c.367 [6] White
 #### 14 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Antony of Egypt, Abbot, 356 [6] White
 #### 17 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### The Confession of Peter [6] White
 #### 18 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Agnes, Martyr, c.304 [6] Red
 #### 21 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Francis de Sales, Bishop, 1622 [6] White
 #### 24 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### The Conversion of Paul, Apostle [4] White
 #### 25 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Timothy and Titus, Bishops [6] White
 #### 26 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### John Chrysostom, Bishop and Teacher of the Faith, 407 [6] White
 #### 27 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Thomas Aquinas, Teacher of the Faith, 1274 [6] White
 #### 28 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Charles I, King, 1649 [6] Red
 #### 30 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ### Charles Mackenzie of Central Africa, Bishop, Missionary, Martyr, 1862 [6] Red
 #### 31 January
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+...
 
 
 ---
