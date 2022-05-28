@@ -1,26 +1,59 @@
-# January
-
-1 January
-The Naming of Jesus [2] White
+# Biographies for Saints' Days and Festivals of the Scottish Episcopal Church
 
 
 
+## JANUARY
 
 
-2 January
-Seraphim of Sarov, 1833 [6] White
+### The Naming of Jesus [2] White
+#### 1 January
 
+Sometimes referred to as the feast of the naming and circumcision of Jesus, this scriptural festival marks three events.
+
+First, the circumcision of Jesus is a sign of the covenant between God and Abraham 'and his children for ever', and his obedience to Biblical law.
+
+Second, in accordance with Jewish tradition, eight days after his birth, the infant Christ was formally given his name. The name Jesus (Greek) or Y'shua (Hebrew) means 'Yahweh saves'. When Moses asked God 'what is your name?', God replied 'I am who I am'. Hence the significance of his words in John 8, when Jesus said, "Before Abraham was, I am."
+
+Third, this has traditionally been seen as the first time the blood of Christ was shed, marking the beginning of the process of the redemption of humanity as a precursor to his crucifixion. 
+
+This feast has been observed by the Church since at least the sixth century.
+
+
+
+### Seraphim of Sarov, 1833 [6] White
+#### 2 January
+
+Born Prókhor Isídorovich Moshnín in 1759 at Kursk in Russia, the son of a merchant, he was 19 years old when he entered the monastery of our Lady of Sarov as a novice. Nine years later he took his monastic vows and was given the religious name Seraphim (which means 'fiery' or 'burning' in Hebrew).
+
+For nearly 30 years, he lived a solitary life of constant prayer and study as a hermit in a neighbouring forest. He became widely-known for his gifts as a staretz, or spiritual director, and thousands made their pilgrimage to experience his gifts of healing both body and soul.
+
+Seraphim taught that the purpose of the Christian life was to receive the Holy Spirit. One of his most popular sayings was, "acquire a peaceful spirit, and around you thousands will be saved."
+
+While he was extraordinarily harsh towards himself in his own spiritual discipline and self-denial, he was always kind and gentle to those he met, calling everyone 'My joy!' and greeting them with a prostration, a kiss and exclaiming "Christ is risen!"
+
+He died on this day in 1833 and is venerated by the Eastern Orthodox Church as an "ikon of Orthodox spirituality".
+
+
+### THE EPIPHANY [1] White
 6 January
-THE EPIPHANY [1] White
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### William Laud, Bishop, 1645 [6] Red
 10 January
-William Laud, Bishop, 1645 [6] Red
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### David, King of Scots, 1153 [6] Red
 11 January
-David, King of Scots, 1153 [6] Red
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, metus id sagittis ornare, ex arcu rutrum enim, id porta nulla tortor et urna. Morbi sed quam velit. Curabitur pulvinar risus id suscipit sagittis. Vivamus malesuada turpis quis erat tincidunt commodo. In ac purus sit amet nisi lobortis tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in pulvinar felis, id pharetra magna.
+
+
+### Kentigern (or Mungo), Bishop c.603 [4] White
 13 January
-Kentigern (or Mungo), Bishop c.603 [4] White
 
 14 January
 Hilary of Poitiers, Bishop and Teacher of the Faith, c.367 [6] White
