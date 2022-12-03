@@ -1,7 +1,7 @@
 # SEC digital calendar and lectionary
 
-* Version: 3.5.0
-* Last updated: Saturday 28 May 2022
+* Version: 3.6.0
+* Last updated: Monday 28 November 2022
 
 
 <!-- MarkdownTOC -->
@@ -17,6 +17,17 @@
     - [Feast days](#feast-days)
     - [Reading style](#reading-style)
         - [Notes](#notes)
+- [3. File formats](#3-file-formats)
+    - [Unix \(LF\)](#unix-lf)
+    - [Date formats](#date-formats)
+        - [Import CSV](#import-csv)
+        - [CSV lookup for PHP app](#csv-lookup-for-php-app)
+    - [CSV files](#csv-files)
+        - [Import CSV](#import-csv-1)
+        - [CSV lookup for PHP app](#csv-lookup-for-php-app-1)
+- [4. Website updates](#4-website-updates)
+    - [Create supporting files for website](#create-supporting-files-for-website)
+- [Update website](#update-website)
 
 <!-- /MarkdownTOC -->
 
@@ -84,7 +95,7 @@ The order of information at the start of Sundays is as follows:
 
 1. Sunday [category] Colour, e.g. `Pentecost 4 [3] Green`.
 2. Scottish Prayer Book (SPB) Sunday, e.g. `SPB Trinity 3`.
-3. Ordination of a bishop (in parentheses), e.g. `(Ordination of the Rt Revd Kevin Pearson as Bishop of Argyll and the Isles, 2011)`
+3. Ordination of a bishop, e.g. `Ordination of the Rt Revd Ian Paton as Bishop of St Andrews, Dunkeld and Dunblane, 2018`
 4. Week of season, e.g. `Week of Proper 13`.
 5. Revised Common Lectionary readings year (A, B or C), then Daily Eucharist and Daily Prayer readings year (1 or 2), .e.g. `Year A/2`.
 
@@ -252,3 +263,102 @@ Reading 1:1–5 or Reading 2:1–10, 15–20
 * There must always be a space after a comma (`,`) or semicolon (`;`).
 * There must be no space within a range (e.g. `1:1-10`) unless the range spans more than one chapter (e.g. `1:1 - 2:10`) in which case there must be a space either side of the dash to aid readability.
 * Dashes must be an en dash `–`  not a simple dash (`-`) or em dash `–`.
+
+
+
+---
+
+
+## 3. File formats
+
+### Unix (LF)
+
+When compiling the CSV files using either a spreadsheet or directly into Google Calendar, ensure that any text copied into the cells is saved with Unix (LF) line-endings, otherwise Apple iCal can mistake the text as HTML and output gobbledygook, e.g. `<html-blob><u></u>Monday 28 November 2022<u></u><br><u></u>Monday after First Sunday of Advent, etc.`
+
+
+### Date formats
+
+#### Import CSV
+
+`sec-master-calendar-2022-2023.csv`
+
+For the CSV file that you use to import into Google Calendar, Microsoft Outlook, etc., use the following date format:
+
+```
+yyyy-mm-dd
+```
+
+#### CSV lookup for PHP app
+
+`csv-lookup.csv`
+
+For the CSV file that is used by the web app to display today's feast plus the following 14 (this may be adjusted in the `csv-lookup.php` file), use the following date format:
+
+```
+dd/mm/yyyy
+```
+
+
+### CSV files
+
+#### Import CSV
+
+`sec-master-calendar-2022-2023.csv`
+
+The CSV file that you use to import into Google Calendar, Microsoft Outlook, etc. should have the following columns. Data is shown in `code text`.
+
+1. Subject - `[Feast day name]`
+2. Start Date - `yyyy-mm-dd`
+3. Start Time - `[blank]`
+4. End Date - `[blank]`
+5. End Time - `[blank]`
+6. All day event - `TRUE`
+7. Reminder on/off - `FALSE`
+8. Description - `[Details, readings, collects, etc.]`
+9. Priority - `Normal`
+10. Sensitivity - `Normal`
+11. Show time as - `3`
+
+#### CSV lookup for PHP app
+
+`csv-lookup.csv`
+
+The CSV file that is used by the web app to display today's feast, should have the following columns:
+
+1. date - `dd/mm/yyyy`
+2. theme - `white | green | red | violet`
+3. season - `Advent | Christmas | Epiphany | Lent | Holy Week | Easter | Pentecost`
+4. feast - `[Feast day name]`
+5. description - `Feria | [Saint details and dates]`
+6. class - `([1-6])`
+7. liturgical-colour - `White | Green | Red | Red or White | Violet | Violet or Lenten Array`
+8. translated - `Translated from [DATE]`
+9. spb - e.g. `SPB Quinquagesima - Violet`
+10. emberogation - `Ember day | Rogation day`
+11. bishop - `[Ordination of bishop of X]`
+12. year-from - `2022`
+13. year-to - `2023`
+14. rcl - `A | B | C`
+15. daily - `1 | 2`
+16. readings-collect - `[Details, readings, collects, etc.]`
+
+
+
+---
+
+
+## 4. Website updates
+
+Update the following files and locations each year.
+
+### Create supporting files for website
+
+* `sec-master-calendar-2022-2023.csv` - Update years accordingly
+* `csv-lookup.csv`
+* Save Google Calendar single year iCalendar file URL.
+
+## Update website
+
+1. Upload updated `csv-lookup.csv` to `/php/`.
+2. Upload `sec-master-calendar-2022-2023.csv` to `/download/`. 
+3. Update `/subscribe/index.php` with links to new iCalendar feed (single year), downloadable CSV file and downloadable ``.ics` (single year) file.
